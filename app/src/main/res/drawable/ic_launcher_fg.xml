@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Steering wheel -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFF9F43"
+        android:strokeWidth="6"
+        android:pathData="M54,30 A24,24 0 1,1 53.99,30 Z" />
+    <path
+        android:fillColor="#FFFF9F43"
+        android:pathData="M54,47 A7,7 0 1,1 53.99,47 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFF9F43"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M31,52 L47,53 M61,53 L77,52 M54,61 L54,77" />
+</vector>
